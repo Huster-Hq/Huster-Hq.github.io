@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a currently a third year (2022.09-) Master student at the Huazhong University of Science and Technology (HUST), advised by <a href='http://faculty.hust.edu.cn/liqiang15/zh_CN/index.htm'>Qiang Li</a> and <a href='https://andysis.github.io/'>Zhiwei Wang</a>. Before that, I recieved my Bachelor Engineering degree at the HUST in 2022.
 
-I am recently working on algorithms for Health Examination in the Endoscopy images/videos, including segmentation, detection, classfication, and the potential of visual-language models for this task.
+My research interests foucs on algorithms for Health Examination in Endoscopy images/videos, including segmentation, detection, classfication. Recently, I am exploring the  potential of visual-language models for endoscopy.
 
 
 # 🔥 News
