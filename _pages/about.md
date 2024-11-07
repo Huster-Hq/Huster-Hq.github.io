@@ -47,8 +47,8 @@ I am recently working on algorithms for Health Examination in the Endoscopy imag
 - *2021.09* , Undergraduate, Huazhong University of Science and Technology (HUST), Wuhan.
 
 # 📖 Educations
-- *2022.09 -  (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2018.09 - 2022.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 -  (now)*, Master, Huazhong University of Science and Technology (HUST), Wuhan.
+- *2018.09 - 2022.06*, Undergraduate, Huazhong University of Science and Technology (HUST), Wuhan.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
