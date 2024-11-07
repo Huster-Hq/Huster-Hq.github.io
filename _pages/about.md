@@ -40,7 +40,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 </div>
 </div>
 
-- <div class='paper-box'>JBHI [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng, Hongkuan Shi, Shiquan He, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li, Zhiwei Wang
+- <div class='paper-box'>JBHI</div> [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng, Hongkuan Shi, Shiquan He, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li, Zhiwei Wang
 
 # 🎖 Honors and Awards
 - *2021.10* , Master, Huazhong University of Science and Technology (HUST), Wuhan.
