@@ -27,7 +27,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024 <span style="color:red">(Oral)</div><img src='images/SALI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024 <span style="color:red">(Oral)</span></div><img src='images/SALI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_50)
