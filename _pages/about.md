@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_50)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qiang Hu**, Zhenyu Yi, Ying Zhou, Fang Peng, Mei Liu, Qiang Li, Zhiwei Wang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
