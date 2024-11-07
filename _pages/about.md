@@ -43,12 +43,12 @@ I am recently working on algorithms for Health Examination in the Endoscopy imag
 - `JBHI 2024` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng, Hongkuan Shi, Shiquan He, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li, Zhiwei Wang
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* , Master, Huazhong University of Science and Technology (HUST), Wuhan.
+- *2021.09* , Undergraduate, Huazhong University of Science and Technology (HUST), Wuhan.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 -  (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2022.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
