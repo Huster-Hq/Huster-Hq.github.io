@@ -45,7 +45,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 - ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng, Hongkuan Shi, Shiquan He, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li, Zhiwei Wang
 
 # 🎖 Honors and Awards
-- *2024.9* , National Scholarship (Highest Scholarship from the Ministry of Education of China), 2024..
+- *2024.9*, National Scholarship (Highest Scholarship from the Ministry of Education of China), 2024..
 
 # 📖 Educations
 - *2022.09 -  (now)*, Master, Huazhong University of Science and Technology (HUST), Wuhan.
