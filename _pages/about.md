@@ -38,7 +38,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [**Code**](https://github.com/Scatteredrain/SALI)
 [**Paper**](https://arxiv.org/abs/2406.13532)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- SALI, a hybrid of Short-term Alignment Module (SAM) and Long-term Interaction Module (LIM), achieves the SOTA performance on the SUN-SEG dataset (currently the largest video polyp segmentation dataset).
 </div>
 </div>
 
