@@ -22,8 +22,10 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉 One paper was accepted by JBHI. Congratulations to Fang Peng!
+- *2024.09*: &nbsp;🎉🎉 I won the National Scholarship for Master Students (WNLO, HUST).
+- *2024.09*: &nbsp;🎉🎉 Our paper SALI was invited to as an Oral presentation. 
+- *2024.06*: &nbsp;🎉🎉 One paper SALI was accepted by MICCAI 2024.
 
 # 📝 Publications 
 
