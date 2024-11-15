@@ -23,8 +23,8 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by JBHI. Congratulations to Fang Peng!
-- *2024.09*: &nbsp;🎉🎉 I won the National Scholarship for Master Students (WNLO, HUST).
-- *2024.09*: &nbsp;🎉🎉 Our paper SALI was invited to as an Oral presentation. 
+- *2024.09*: &nbsp;🎉🎉 I won the ``National Scholarship for Master Students`` (WNLO, HUST).
+- *2024.09*: &nbsp;🎉🎉 Our paper ``SALI`` was invited to as an Oral presentation. 
 - *2024.06*: &nbsp;🎉🎉 One paper SALI was accepted by MICCAI 2024.
 
 # 📝 Publications 
@@ -45,16 +45,13 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 - ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng, Hongkuan Shi, Shiquan He, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li, Zhiwei Wang
 
 # 🎖 Honors and Awards
-- *2021.10* , Master, Huazhong University of Science and Technology (HUST), Wuhan.
-- *2021.09* , Undergraduate, Huazhong University of Science and Technology (HUST), Wuhan.
+- *2024.9* , National Scholarship (Highest Scholarship from the Ministry of Education of China), 2024..
 
 # 📖 Educations
 - *2022.09 -  (now)*, Master, Huazhong University of Science and Technology (HUST), Wuhan.
 - *2018.09 - 2022.06*, Undergraduate, Huazhong University of Science and Technology (HUST), Wuhan.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
