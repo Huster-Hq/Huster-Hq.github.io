@@ -25,7 +25,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by JBHI. Congratulations to Fang Peng!
 - *2024.09*: &nbsp;🎉🎉 I won the ``National Scholarship for Master Students`` (WNLO, HUST).
 - *2024.09*: &nbsp;🎉🎉 Our paper ``SALI`` was invited to as an ``Oral presentation`` (<3%). 
-- *2024.06*: &nbsp;🎉🎉 One paper SALI was accepted by MICCAI 2024.
+- *2024.06*: &nbsp;🎉🎉 One paper SALI was accepted by MICCAI 2024. Congratulations to the co-author Zhenyu Yi!
 
 # 📝 Publications 
 
