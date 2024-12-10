@@ -39,7 +39,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [**Code**](https://github.com/Huster-Hq/MonoBox)
 [**Paper**](https://arxiv.org/abs/2404.01188)
-- MonoBox (a solid tightness-free box-supervised segmentation method), proposes a novel monotonicity constraint to liberate the training of existing MIL-based box-supervised segmentation methods the user-unfriendly box-tightness assumption. It is plug-and-play and can improve the tolerance of any MIL-based box-supervised box segmentation methods (e.g., BoxInst, BoxLevelSet, IBoxCLA, etc.) to tightness-free box annotations.
+- MonoBox proposes a novel monotonicity constraint to liberate the training of existing MIL-based box-supervised segmentation methods from the user-unfriendly box-tightness assumption. It is plug-and-play and can improve the tolerance of any MIL-based box-supervised box segmentation methods (e.g., BoxInst, BoxLevelSet, IBoxCLA, etc.) to tightness-free box annotations.
 </div>
 </div>
 
