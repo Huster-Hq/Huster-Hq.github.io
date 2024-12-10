@@ -22,6 +22,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper ``MonoBox`` was accepted by AAAI 2025!
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by JBHI. Congratulations to Fang Peng!
 - *2024.09*: &nbsp;🎉🎉 I won the ``National Scholarship for Master Students`` (WNLO, HUST).
 - *2024.09*: &nbsp;🎉🎉 Our paper ``SALI`` was invited as an ``Oral presentation`` (<3%) in MICCAI 2024. 
