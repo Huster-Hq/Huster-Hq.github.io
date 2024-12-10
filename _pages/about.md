@@ -30,6 +30,20 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 </div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MonoBox: Tightness-free Box-supervised Polyp Segmentation using Monotonicity Constraint](https://arxiv.org/abs/2404.01188)
+
+**Qiang Hu**, Zhenyu Yi, Ying Zhou, Fan Huang, Mei Liu, Qiang Li, Zhiwei Wang
+
+[**Code**](https://github.com/Huster-Hq/MonoBox)
+[**Paper**](https://arxiv.org/abs/2404.01188)
+- MonoBox (a solid tightness-free box-supervised segmentation method), proposes a novel monotonicity constraint to liberate the training of existing MIL-based box-supervised segmentation methods the user-unfriendly box-tightness assumption. It is plug-and-play and can improve the tolerance of any MIL-based box-supervised box segmentation methods (e.g., BoxInst, BoxLevelSet, IBoxCLA, etc.) to tightness-free box annotations.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024 <span style="color:red">(Oral)</span></div><img src='images/SALI-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
