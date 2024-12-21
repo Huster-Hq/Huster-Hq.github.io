@@ -22,6 +22,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper ``PSDNet`` was accepted by ICASSP 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper ``MonoBox`` was accepted by AAAI 2025!
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by JBHI. Congratulations to Fang Peng!
 - *2024.09*: &nbsp;🎉🎉 I won the ``National Scholarship for Master Students`` (WNLO, HUST).
@@ -40,6 +41,20 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 [**Code**](https://github.com/Huster-Hq/MonoBox)
 [**Paper**](https://arxiv.org/abs/2404.01188)
 - MonoBox proposes a novel monotonicity constraint to liberate the training of existing MIL-based box-supervised segmentation methods from the user-unfriendly box-tightness assumption. It is plug-and-play and can improve the tolerance of any MIL-based box-supervised segmentation methods (e.g., BoxInst, BoxLevelSet, IBoxCLA, etc.) to tightness-free box annotations in any scenarios (e.g., common, medical, etc.).
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025 </div><img src='images/PSDNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MonoBox: Tightness-free Box-supervised Polyp Segmentation using Monotonicity Constraint]()
+
+**Qiang Hu**, Mei Liu, Qiang Li, Zhiwei Wang
+
+[**Code**](https://github.com/Huster-Hq/PSDNet)
+[**Paper**]()
+- The PSDNet greatly reduces the labeling costs of training video segmentation models, which require only one frame of annotation on each video, regardless of its video length. It benefits from the existing powerful fundamental video segmentation models (e.g., XMem, Cutie, and SAM 2).
 </div>
 </div>
 
