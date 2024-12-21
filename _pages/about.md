@@ -54,7 +54,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [**Code**](https://github.com/Huster-Hq/PSDNet)
 [**Paper**]()
-- The PSDNet greatly reduces the labeling costs of training video segmentation models, which require only one frame of annotation on each video, regardless of its video length. It benefits from the existing powerful fundamental video segmentation models (e.g., XMem, Cutie, and SAM 2).
+- PSDNet greatly reduces the labeling costs of training video segmentation models, which require only one frame of annotation on each video, regardless of the length. It benefits from the existing powerful fundamental video segmentation models (e.g., XMem and SAM 2).
 </div>
 </div>
 
