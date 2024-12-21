@@ -48,7 +48,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025 </div><img src='images/PSDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MonoBox: Tightness-free Box-supervised Polyp Segmentation using Monotonicity Constraint]()
+[First-frame Supervised Video Polyp Segmentation via Propagative and Semantic Dual-teacher Network]()
 
 **Qiang Hu**, Mei Liu, Qiang Li, Zhiwei Wang
 
