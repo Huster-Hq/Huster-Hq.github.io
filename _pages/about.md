@@ -46,8 +46,23 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025 <span style="color:red">(Early Accept)</span></div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Holistic White-light Polyp Classification via Alignment-free Dense Distillation of Auxiliary Optical Chromoendoscopy]()
+
+**Qiang Hu**, Qimei Wang, Jia Chen, Xuantao Ji, Mei Liu, Qiang Li, and Zhiwei Wang
+
+[**Code**]()
+[**Paper**]()
+- We propose a novel holistic WLI polyp classification framework, which mainly prpose a novel module, Alignment-free Dense Distillation (ADD), to leverage NBI knowledge to assist holistic WLI polyp classifier without requiring geometric priors (e.g., polyp locations).
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025 </div><img src='images/PSDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [First-frame Supervised Video Polyp Segmentation via Propagative and Semantic Dual-teacher Network]()
 
@@ -72,6 +87,25 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 - SALI, a hybrid of Short-term Alignment Module (SAM) and Long-term Interaction Module (LIM), achieves the SOTA performance on the SUN-SEG dataset (currently the largest video polyp segmentation dataset).
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025 <span style="color:red">(Early Accept)</span></div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection]()
+
+Quan Zhou, Gan Luo, **Qiang Hu** (co-corresponding author), Qingyong Zhang, Yinjiao Tian, Qiang Li, Zhiwei Wang
+
+[**Code**]()
+[**Paper**]()
+- To reduce false positive predictions of polyp detectors in clinical applications, we propose a novel image synthesis method, namely DADA, that integrates diffusion models with adversarial attacks, focusing on generating high-value negative samples capable of effectively misleading polyp detectors.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025 </div><img src='images/PSDNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 - ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng, Hongkuan Shi, Shiquan He, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li, Zhiwei Wang
 
