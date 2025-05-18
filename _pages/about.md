@@ -46,7 +46,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025 <span style="color:red">(Early Accept)</span></div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025 <span style="color:red">(Early Accept)</span></div><img src='images/ADD-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Holistic White-light Polyp Classification via Alignment-free Dense Distillation of Auxiliary Optical Chromoendoscopy]()
@@ -89,7 +89,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025 <span style="color:red">(Early Accept)</span></div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025 <span style="color:red">(Early Accept)</span></div><img src='images/DADA.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection]()
