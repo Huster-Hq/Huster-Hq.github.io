@@ -22,6 +22,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Two paper ``ADD`` and ``DADA`` were ``early accepted`` by MICCAI 2025 (Top 9%). Congratulations to Qimei Wang and Gan Luo!
 - *2024.12*: &nbsp;🎉🎉 One paper ``PSDNet`` was accepted by ICASSP 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper ``MonoBox`` was accepted by AAAI 2025!
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by JBHI. Congratulations to Fang Peng!
