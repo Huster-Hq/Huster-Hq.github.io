@@ -51,7 +51,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [Holistic White-light Polyp Classification via Alignment-free Dense Distillation of Auxiliary Optical Chromoendoscopy]()
 
-**Qiang Hu**, Qimei Wang, Jia Chen, Xuantao Ji, Mei Liu, Qiang Li, and Zhiwei Wang
+**Qiang Hu**#, Qimei Wang#, Jia Chen, Xuantao Ji, Mei Liu, Qiang Li, and Zhiwei Wang
 
 [**Code**]()
 [**Paper**]()
@@ -80,7 +80,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_50)
 
-**Qiang Hu**, Zhenyu Yi, Ying Zhou, Fang Peng, Mei Liu, Qiang Li, Zhiwei Wang
+**Qiang Hu**#, Zhenyu Yi#, Ying Zhou, Fang Peng, Mei Liu, Qiang Li, Zhiwei Wang
 
 [**Code**](https://github.com/Scatteredrain/SALI)
 [**Paper**](https://arxiv.org/abs/2406.13532)
@@ -94,7 +94,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection]()
 
-Quan Zhou, Gan Luo, **Qiang Hu** (co-corresponding author), Qingyong Zhang, Yinjiao Tian, Qiang Li, Zhiwei Wang
+Quan Zhou#, Gan Luo#, **Qiang Hu** (co-corresponding author), Qingyong Zhang, Yinjiao Tian, Qiang Li, Zhiwei Wang
 
 [**Code**]()
 [**Paper**]()
@@ -103,7 +103,7 @@ Quan Zhou, Gan Luo, **Qiang Hu** (co-corresponding author), Qingyong Zhang, Yinj
 </div>
 
 
-- ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng, Hongkuan Shi, Shiquan He, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li, Zhiwei Wang
+- ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng#, Hongkuan Shi#, Shiquan He#, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li, Zhiwei Wang
 
 # 🎖 Honors and Awards
 - *2024.9* National Scholarship (Highest Scholarship from the Ministry of Education of China).
