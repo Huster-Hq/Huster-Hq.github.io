@@ -54,7 +54,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 **Qiang Hu**#, Qimei Wang#, Jia Chen, Xuantao Ji, Mei Liu, Qiang Li, and Zhiwei Wang
 
 [**Code**](https://github.com/Huster-Hq/ADD)
-[**Paper**]()
+[**Paper**](https://arxiv.org/abs/2505.19319)
 - We propose a novel holistic WLI polyp classification framework, which mainly prpose a novel module, Alignment-free Dense Distillation (ADD), to leverage NBI knowledge to assist holistic WLI polyp classifier without requiring geometric priors (e.g., polyp locations).
 </div>
 </div>
@@ -94,7 +94,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection]()
 
-Quan Zhou#, Gan Luo#, **Qiang Hu** (co-corresponding author), Qingyong Zhang, Yinjiao Tian, Qiang Li, Zhiwei Wang
+Quan Zhou#, Gan Luo#, **Qiang Hu**#, Qingyong Zhang, Yinjiao Tian, Qiang Li, Zhiwei Wang
 
 [**Code**]()
 [**Paper**]()
