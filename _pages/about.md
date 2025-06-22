@@ -31,14 +31,14 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 - *2024.06*: &nbsp;🎉🎉 One paper ``SALI`` was accepted by MICCAI 2024. Congratulations to the co-author Zhenyu Yi!
 
 # 📝 Publications 
-### (Note: &#42;: Co-first author, &#8224;: Corresponding author)
+### (Note: <font color=#008000>&#42;</font>: Co-first author, &#8224;: Corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 </div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MonoBox: Tightness-free Box-supervised Polyp Segmentation using Monotonicity Constraint](https://arxiv.org/abs/2404.01188)
 
-**Qiang Hu**;, Zhenyu Yi, Ying Zhou, Fan Huang, Mei Liu, Qiang Li, Zhiwei Wang&#8224;
+**Qiang Hu**, Zhenyu Yi, Ying Zhou, Fan Huang, Mei Liu, Qiang Li, Zhiwei Wang&#8224;
 
 [**Code**](https://github.com/Huster-Hq/MonoBox)
 [**Paper**](https://arxiv.org/abs/2404.01188)
