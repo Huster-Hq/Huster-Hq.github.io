@@ -31,13 +31,14 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 - *2024.06*: &nbsp;🎉🎉 One paper ``SALI`` was accepted by MICCAI 2024. Congratulations to the co-author Zhenyu Yi!
 
 # 📝 Publications 
+### (Note: &#42;: Co-first author, &#8224;: Corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 </div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MonoBox: Tightness-free Box-supervised Polyp Segmentation using Monotonicity Constraint](https://arxiv.org/abs/2404.01188)
 
-**Qiang Hu**, Zhenyu Yi, Ying Zhou, Fan Huang, Mei Liu, Qiang Li, Zhiwei Wang
+**Qiang Hu**;, Zhenyu Yi, Ying Zhou, Fan Huang, Mei Liu, Qiang Li, Zhiwei Wang&#8224;
 
 [**Code**](https://github.com/Huster-Hq/MonoBox)
 [**Paper**](https://arxiv.org/abs/2404.01188)
@@ -51,7 +52,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [Holistic White-light Polyp Classification via Alignment-free Dense Distillation of Auxiliary Optical Chromoendoscopy]()
 
-**Qiang Hu**#, Qimei Wang#, Jia Chen, Xuantao Ji, Mei Liu, Qiang Li, and Zhiwei Wang
+**Qiang Hu**&#42;, Qimei Wang&#42;, Jia Chen, Xuantao Ji, Mei Liu, Qiang Li&#8224;, and Zhiwei Wang&#8224;
 
 [**Code**](https://github.com/Huster-Hq/ADD)
 [**Paper**](https://arxiv.org/abs/2505.19319)
@@ -66,7 +67,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [First-frame Supervised Video Polyp Segmentation via Propagative and Semantic Dual-teacher Network]()
 
-**Qiang Hu**, Mei Liu, Qiang Li, Zhiwei Wang
+**Qiang Hu**, Mei Liu, Qiang Li, Zhiwei Wang&#8224;
 
 [**Code**](https://github.com/Huster-Hq/PSDNet)
 [**Paper**](https://arxiv.org/abs/2412.16503)
@@ -80,7 +81,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_50)
 
-**Qiang Hu**#, Zhenyu Yi#, Ying Zhou, Fang Peng, Mei Liu, Qiang Li, Zhiwei Wang
+**Qiang Hu**&#42;, Zhenyu Yi&#42;, Ying Zhou, Fang Peng, Mei Liu, Qiang Li&#8224;, Zhiwei Wang&#8224;
 
 [**Code**](https://github.com/Scatteredrain/SALI)
 [**Paper**](https://arxiv.org/abs/2406.13532)
@@ -94,16 +95,16 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection]()
 
-Quan Zhou#, Gan Luo#, **Qiang Hu**#, Qingyong Zhang, Yinjiao Tian, Qiang Li, Zhiwei Wang
+Quan Zhou&#42;, Gan Luo&#42;, **Qiang Hu**&#8224;, Qingyong Zhang, Yinjiao Tian, Qiang Li, Zhiwei Wang&#8224;
 
-[**Code**]()
+[**Code**](https://github.com/Huster-Hq/DADA)
 [**Paper**]()
 - To reduce false positive predictions of polyp detectors in clinical applications, we propose a novel image synthesis method, namely DADA, that integrates diffusion models with adversarial attacks, focusing on generating high-value negative samples capable of effectively misleading polyp detectors.
 </div>
 </div>
 
 
-- ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng#, Hongkuan Shi#, Shiquan He#, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li, Zhiwei Wang
+- ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng&#42;, Hongkuan Shi&#42;, Shiquan He&#42;, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li&#8224;, Zhiwei Wang&#8224;
 
 # 🎖 Honors and Awards
 - *2024.9* National Scholarship (Highest Scholarship from the Ministry of Education of China).
