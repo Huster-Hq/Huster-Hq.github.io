@@ -31,7 +31,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 - *2024.06*: &nbsp;🎉🎉 One paper ``SALI`` was accepted by MICCAI 2024. Congratulations to the co-author Zhenyu Yi!
 
 # 📝 Publications 
-### (Note: <font color=#008000>&#42;</font>: Co-first author, &#8224;: Corresponding author)
+### (Note: &#42;: Co-first author, &#8224;: Corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 </div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
