@@ -104,7 +104,7 @@ Quan Zhou<span style="color:#0D6EFD">&#42;</span>, Gan Luo<span style="color:#0D
 </div>
 
 
-- ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng<span style="color:#0D6EFD">&#42;</span>;, Hongkuan Shi<span style="color:#0D6EFD">&#42;</span>, Shiquan He<span style="color:#0D6EFD">&#42;</span>, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li<span style="color:#FFA500">&#8224;</span>, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
+- ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng<span style="color:#0D6EFD">&#42;</span>, Hongkuan Shi<span style="color:#0D6EFD">&#42;</span>, Shiquan He<span style="color:#0D6EFD">&#42;</span>, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li<span style="color:#FFA500">&#8224;</span>, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
 # 🎖 Honors and Awards
 - *2024.9* National Scholarship (Highest Scholarship from the Ministry of Education of China).
