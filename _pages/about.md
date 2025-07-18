@@ -93,7 +93,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025 <span style="color:red">(Early Accept)</span></div><img src='images/DADA.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection]()
+[Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection](https://arxiv.org/abs/2506.18134)
 
 Quan Zhou<span style="color:#0D6EFD">&#42;</span>, Gan Luo<span style="color:#0D6EFD">&#42;</span>, **Qiang Hu**<span style="color:#FFA500">&#8224;</span>, Qingyong Zhang, Yinjiao Tian, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
