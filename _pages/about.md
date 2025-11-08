@@ -39,7 +39,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [Pairing-free Group-level Knowledge Distillation for Robust Gastrointestinal Lesion Classification in White-Light Endoscopy]()
 
-**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Qimei Wang<span style="color:#0D6EFD">&#42;</span>, Jia Chen, Xuantao Ji, Mei Liu, Qiang Li<span style="color:#FFA500">&#8224;</span>, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Qimei Wang<span style="color:#0D6EFD">&#42;</span>, Jia Chen, Xuantao Ji, Mei Liu, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
 
 [**Code**]()
 [**Paper**]()
