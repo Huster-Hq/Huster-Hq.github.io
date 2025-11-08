@@ -34,7 +34,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 # 📝 Publications 
 ### (Note: <span style="color:#0D6EFD">&#42;</span>: Co-first author, <span style="color:#FFA500">&#8224;</span>: Corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 </div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 </div><img src='images/PaGKD-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pairing-free Group-level Knowledge Distillation for Robust Gastrointestinal Lesion Classification in White-Light Endoscopy]()
