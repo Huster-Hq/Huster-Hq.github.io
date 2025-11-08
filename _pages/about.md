@@ -22,11 +22,12 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper ``PaGKD`` was accepted by AAAI 2026. Congratulations to the co-author Qimei Wang!
 - *2025.05*: &nbsp;🎉🎉 Two papers ``ADD`` and ``DADA`` were ``early accepted`` by MICCAI 2025 (Top 9%). Congratulations to Qimei Wang and Gan Luo!
 - *2024.12*: &nbsp;🎉🎉 One paper ``PSDNet`` was accepted by ICASSP 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper ``MonoBox`` was accepted by AAAI 2025!
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by JBHI. Congratulations to Fang Peng!
-- *2024.09*: &nbsp;🎉🎉 I won the ``National Scholarship for Master Students`` (WNLO, HUST).
+- *2024.09*: &nbsp;🎉🎉 I won the ``National Scholarship for Master Students`` (HUST).
 - *2024.09*: &nbsp;🎉🎉 Our paper ``SALI`` was invited as an ``Oral presentation`` (<3%) in MICCAI 2024. 
 - *2024.06*: &nbsp;🎉🎉 One paper ``SALI`` was accepted by MICCAI 2024. Congratulations to the co-author Zhenyu Yi!
 
@@ -36,9 +37,23 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 </div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Pairing-free Group-level Knowledge Distillation for Robust Gastrointestinal Lesion Classification in White-Light Endoscopy]()
+
+**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Qimei Wang<span style="color:#0D6EFD">&#42;</span>, Jia Chen, Xuantao Ji, Mei Liu, Qiang Li<span style="color:#FFA500">&#8224;</span>, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+
+[**Code**]()
+[**Paper**]()
+- PaGKD proposes the Group-level Distillation strategy, achieving reliable knowledge transfer between unpaired cross-modal data, i.e., from Narrow-Band Imaging (NBI, the dominant modality) to White-Light Imaging (WLI), and improving the gastrointestinal lesions diagnostic performance in WLI domain.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 </div><img src='images/MonoBox-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [MonoBox: Tightness-free Box-supervised Polyp Segmentation using Monotonicity Constraint](https://arxiv.org/abs/2404.01188)
 
-**Qiang Hu**, Zhenyu Yi, Ying Zhou, Fan Huang, Mei Liu, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+**Qiang Hu**, Zhenyu Yi, Ying Zhou, Fan Huang, Mei Liu, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
 [**Code**](https://github.com/Huster-Hq/MonoBox)
 [**Paper**](https://arxiv.org/abs/2404.01188)
