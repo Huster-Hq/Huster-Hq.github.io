@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a currently a first-year (2025.09-) Ph.D candidate at the Huazhong University of Science and Technology (HUST), advised by <a href='https://andysis.github.io/'>Zhiwei Wang</a> and <a href='http://faculty.hust.edu.cn/liqiang15/zh_CN/index.htm'>Qiang Li</a>. Before that, I recieved my Bachelor Engineering degree at the HUST in 2022.
+I am a currently a first-year (2025.09-) Ph.D. candidate at the Huazhong University of Science and Technology (HUST), advised by <a href='https://andysis.github.io/'>Zhiwei Wang</a> and <a href='http://faculty.hust.edu.cn/liqiang15/zh_CN/index.htm'>Qiang Li</a>. Before that, I recieved my Bachelor Engineering degree at the HUST in 2022.
 
 My research interests foucs on algorithms for Health Examination in Endoscopy images/videos, including segmentation, detection, classfication. Recently, I am exploring the  potential of visual-language models for endoscopy. If you are interested in my research, welcome to communicate with me!!!
 
@@ -125,7 +125,7 @@ Quan Zhou<span style="color:#0D6EFD">&#42;</span>, Gan Luo<span style="color:#0D
 - *2024.9* National Scholarship (Highest Scholarship from the Ministry of Education of China).
 
 # 📖 Educations
-- *2025.09 - (now)*, Ph.d candidate, Huazhong University of Science and Technology (HUST), Wuhan.
+- *2025.09 - (now)*, Ph.D. candidate, Huazhong University of Science and Technology (HUST), Wuhan.
 - *2022.09 - 2025.06*, Master, Huazhong University of Science and Technology (HUST), Wuhan.
 - *2018.09 - 2022.06*, Undergraduate, Huazhong University of Science and Technology (HUST), Wuhan.
 
