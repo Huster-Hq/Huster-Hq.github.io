@@ -41,8 +41,8 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 **Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Qimei Wang<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
 
-[**Code**]()
-[**Paper**]()
+[**Code**](https://github.com/Huster-Hq/PaGKD)
+[**Paper**](https://arxiv.org/abs/2601.09209)
 - PaGKD proposes the Group-level Distillation strategy, achieving reliable knowledge transfer between unpaired cross-modal data, i.e., from Narrow-Band Imaging (NBI, the dominant modality) to White-Light Imaging (WLI), and improving the gastrointestinal lesions diagnostic performance in WLI domain.
 </div>
 </div>
