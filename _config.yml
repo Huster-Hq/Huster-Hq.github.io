@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   # name             : "Qiang Hu"
-  name             : 'Qiang Hu <span style="font-family: STXingkai, 华文行楷, cursive; font-weight: normal;">胡强</span>'
+  name             : 'Qiang Hu (胡强)'
   avatar           : "images/huqiang.jpg"
   bio              : "Huazhong University of Science and Technology (HUST)"
   location         : "Wuhan, China"
