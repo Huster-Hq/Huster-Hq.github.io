@@ -21,7 +21,48 @@ I am a currently a first-year (2025.09-) Ph.D. candidate at the Huazhong Univers
 My research interests foucs on algorithms for Health Examination in Endoscopy images/videos, including segmentation, detection, classfication. Recently, I am exploring the  potential of visual-language models for endoscopy. If you are interested in my research, welcome to communicate with me!!!
 
 
+<!-- # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper ``PaGKD`` was accepted by AAAI 2026. Congratulations to the co-author Qimei Wang!
+- *2025.05*: &nbsp;🎉🎉 Two papers ``ADD`` and ``DADA`` were ``early accepted`` by MICCAI 2025 (Top 9%). Congratulations to Qimei Wang and Gan Luo!
+- *2024.12*: &nbsp;🎉🎉 One paper ``PSDNet`` was accepted by ICASSP 2025!
+- *2024.12*: &nbsp;🎉🎉 One paper ``MonoBox`` was accepted by AAAI 2025!
+- *2024.10*: &nbsp;🎉🎉 One paper was accepted by JBHI. Congratulations to Fang Peng!
+- *2024.09*: &nbsp;🎉🎉 I won the ``National Scholarship for Master Students`` (HUST).
+- *2024.09*: &nbsp;🎉🎉 Our paper ``SALI`` was invited as an ``Oral presentation`` (<3%) in MICCAI 2024. 
+- *2024.06*: &nbsp;🎉🎉 One paper ``SALI`` was accepted by MICCAI 2024. Congratulations to the co-author Zhenyu Yi! -->
+
+
+<style>
+/* 定义滚动窗口的样式 */
+.news-scroll {
+    max-height: 280px;         /* 控制窗口的最大高度，你可以根据需要调整 */
+    overflow-y: auto;          /* 当内容超出高度时自动显示垂直滚动条 */
+    padding: 10px 15px;        /* 内部四周留白，让文字不贴边 */
+    margin-bottom: 20px;       /* 与下方内容的间距 */
+    border: 1px solid #eaecef; /* 添加一个浅灰色的边框，符合现有风格 */
+    border-radius: 6px;        /* 边框加上微微的圆角，更现代美观 */
+    background-color: transparent; 
+}
+
+/* 进一步美化滚动条，使其更符合极简风格 (适用于 Chrome, Edge, Safari) */
+.news-scroll::-webkit-scrollbar {
+    width: 6px;                /* 滚动条变细 */
+}
+.news-scroll::-webkit-scrollbar-track {
+    background: transparent;   /* 轨道背景透明 */
+}
+.news-scroll::-webkit-scrollbar-thumb {
+    background-color: #d1d5da; /* 滚动条的滑块颜色 */
+    border-radius: 4px;        /* 滑块圆角 */
+}
+.news-scroll::-webkit-scrollbar-thumb:hover {
+    background-color: #959da5; /* 鼠标悬停在滑块上时颜色加深 */
+}
+</style>
+
 # 🔥 News
+<div class="news-scroll" markdown="1">
+
 - *2025.11*: &nbsp;🎉🎉 One paper ``PaGKD`` was accepted by AAAI 2026. Congratulations to the co-author Qimei Wang!
 - *2025.05*: &nbsp;🎉🎉 Two papers ``ADD`` and ``DADA`` were ``early accepted`` by MICCAI 2025 (Top 9%). Congratulations to Qimei Wang and Gan Luo!
 - *2024.12*: &nbsp;🎉🎉 One paper ``PSDNet`` was accepted by ICASSP 2025!
@@ -30,6 +71,9 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 - *2024.09*: &nbsp;🎉🎉 I won the ``National Scholarship for Master Students`` (HUST).
 - *2024.09*: &nbsp;🎉🎉 Our paper ``SALI`` was invited as an ``Oral presentation`` (<3%) in MICCAI 2024. 
 - *2024.06*: &nbsp;🎉🎉 One paper ``SALI`` was accepted by MICCAI 2024. Congratulations to the co-author Zhenyu Yi!
+
+</div>
+
 
 # 📝 Publications 
 ### (Note: <span style="color:#0D6EFD">&#42;</span>: Co-first author, <span style="color:#FFA500">&#8224;</span>: Corresponding author)
