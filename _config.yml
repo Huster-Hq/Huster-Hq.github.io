@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-# title                    : "Qiang Hu"
-title                    : 'Qiang Hu <span style="font-family: STXingkai, 华文行楷, cursive; font-weight: normal;">胡强</span>'
+title                    : "Qiang Hu"
+# title                    : 'Qiang Hu <span style="font-family: STXingkai, 华文行楷, cursive; font-weight: normal;">胡强</span>'
 description              : "Master in Huazhong University of Science and Technology (HUST). Focusing on CV and VLM in the medical doman."
 repository               : "Huster-Hq/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
