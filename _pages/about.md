@@ -63,7 +63,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
-- *2025.11*: &nbsp;🎉🎉 One paper ``SAMIX`` was accepted by CVPR 2026. Congratulations to all co-authors!
+- *2026.02*: &nbsp;🎉🎉 One paper ``SAMIX`` was accepted by CVPR 2026. Congratulations to all co-authors!
 - *2025.11*: &nbsp;🎉🎉 One paper ``PaGKD`` was accepted by AAAI 2026. Congratulations to the co-author Qimei Wang!
 - *2025.05*: &nbsp;🎉🎉 Two papers ``ADD`` and ``DADA`` were ``early accepted`` by MICCAI 2025 (Top 9%). Congratulations to Qimei Wang and Gan Luo!
 - *2024.12*: &nbsp;🎉🎉 One paper ``PSDNet`` was accepted by ICASSP 2025!
