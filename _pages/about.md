@@ -84,7 +84,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [SAMIX: Reinforcing SAM2 with Semantic Adapter and Reference Selecting Policy for Mix-Supervised Segmentation]()
 
-**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Qimei Wang<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Jiajie Wei, Zhenyu Yi, Zhifen Yan, Yingjie Guo, Hongkuan Shi, Ge-Peng Ji, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
 
 [**Code**]()
 [**Paper**]()
