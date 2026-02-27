@@ -63,6 +63,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2025.11*: &nbsp;🎉🎉 One paper ``SAMIX`` was accepted by CVPR 2026. Congratulations to all co-authors!
 - *2025.11*: &nbsp;🎉🎉 One paper ``PaGKD`` was accepted by AAAI 2026. Congratulations to the co-author Qimei Wang!
 - *2025.05*: &nbsp;🎉🎉 Two papers ``ADD`` and ``DADA`` were ``early accepted`` by MICCAI 2025 (Top 9%). Congratulations to Qimei Wang and Gan Luo!
 - *2024.12*: &nbsp;🎉🎉 One paper ``PSDNet`` was accepted by ICASSP 2025!
@@ -78,10 +79,24 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 # 📝 Publications 
 ### (Note: <span style="color:#0D6EFD">&#42;</span>: Co-first author, <span style="color:#FFA500">&#8224;</span>: Corresponding author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 </div><img src='images/SAMIX.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAMIX: Reinforcing SAM2 with Semantic Adapter and Reference Selecting Policy for Mix-Supervised Segmentation]()
+
+**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Qimei Wang<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+
+[**Code**]()
+[**Paper**]()
+- SAMIX is a RL-empowered in-context segmenter comprising two core components: SA-SAM2 and SPNet. SA-SAM2 leverages a lightweight semantic adapter to transform the vanilla SAM2 into an in-context segmenter, enabling cross-image semantic tracking capabilities. Meanwhile, SPNet is trained via GRPO with customized verifiable rewards to retrieve valuable visual contexts from a data pool for the query image, effectively empowering SA-SAM2.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 </div><img src='images/PaGKD-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pairing-free Group-level Knowledge Distillation for Robust Gastrointestinal Lesion Classification in White-Light Endoscopy]()
+[Pairing-free Group-level Knowledge Distillation for Robust Gastrointestinal Lesion Classification in White-Light Endoscopy](https://arxiv.org/abs/2601.09209)
 
 **Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Qimei Wang<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
 
