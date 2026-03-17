@@ -172,7 +172,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 Quan Zhou<span style="color:#0D6EFD">&#42;</span>, Gan Luo<span style="color:#0D6EFD">&#42;</span>, **Qiang Hu**<span style="color:#FFA500">&#8224;</span>, Qingyong Zhang, Yinjiao Tian, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
 [**Code**](https://github.com/Huster-Hq/DADA)
-[**Paper**]()
+[**Paper**](https://arxiv.org/abs/2506.18134)
 - To reduce false positive predictions of polyp detectors in clinical applications, we propose a novel image synthesis method, namely DADA, that integrates diffusion models with adversarial attacks, focusing on generating high-value negative samples capable of effectively misleading polyp detectors.
 </div>
 </div>
