@@ -63,6 +63,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.03*: &nbsp;🎉🎉 One paper was accepted by ICME. Congratulations to Hao Wang!
 - *2026.02*: &nbsp;🎉🎉 One paper ``SAMIX`` was accepted by CVPR 2026. Congratulations to all co-authors!
 - *2025.11*: &nbsp;🎉🎉 One paper ``PaGKD`` was accepted by AAAI 2026. Congratulations to the co-author Qimei Wang!
 - *2025.05*: &nbsp;🎉🎉 Two papers ``ADD`` and ``DADA`` were ``early accepted`` by MICCAI 2025 (Top 9%). Congratulations to Qimei Wang and Gan Luo!
@@ -179,6 +180,8 @@ Quan Zhou<span style="color:#0D6EFD">&#42;</span>, Gan Luo<span style="color:#0D
 
 
 - ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng<span style="color:#0D6EFD">&#42;</span>, Hongkuan Shi<span style="color:#0D6EFD">&#42;</span>, Shiquan He<span style="color:#0D6EFD">&#42;</span>, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li<span style="color:#FFA500">&#8224;</span>, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
+
+- ``ICME 2026`` [Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting](), Hao Wang<span style="color:#0D6EFD">&#42;</span>, Ying Zhou<span style="color:#0D6EFD">&#42;</span>, Haoyu Zhao, Rui Wang, **Qiang Hu**, Xin Zhang, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
 # 🎖 Honors and Awards
 - *2024.9* National Scholarship (Highest Scholarship from the Ministry of Education of China).
