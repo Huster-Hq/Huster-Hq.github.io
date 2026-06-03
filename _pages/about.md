@@ -87,8 +87,8 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 **Qiang Hu**, Jiajie Wei, Zhenyu Yi, Zhifen Yan, Yingjie Guo, Hongkuan Shi, Ge-Peng Ji, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
 
-[**Code**]()
-[**Paper**]()
+[**Code**](https://github.com/Huster-Hq/SAMIX)
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_SAMIX_Reinforcing_SAM2_with_Semantic_Adapter_and_Reference_Selecting_Policy_CVPR_2026_paper.html)
 - SAMIX is a RL-empowered in-context segmenter comprising two core components: SA-SAM2 and SPNet. SA-SAM2 leverages a lightweight semantic adapter to transform the vanilla SAM2 into an in-context segmenter, enabling cross-image semantic tracking capabilities. Meanwhile, SPNet is trained via GRPO with customized verifiable rewards to retrieve valuable visual contexts from a data pool for the query image, effectively empowering SA-SAM2.
 </div>
 </div>
