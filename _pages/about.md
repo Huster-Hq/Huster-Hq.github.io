@@ -184,7 +184,7 @@ Quan Zhou<span style="color:#0D6EFD">&#42;</span>, Gan Luo<span style="color:#0D
 - ``ICME 2026`` [Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting](https://arxiv.org/abs/2510.18739), Hao Wang<span style="color:#0D6EFD">&#42;</span>, Ying Zhou<span style="color:#0D6EFD">&#42;</span>, Haoyu Zhao, Rui Wang, **Qiang Hu**, Xin Zhang, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
 # 🎖 Honors and Awards
-- *2024.9* National Scholarship (Highest Scholarship from the Ministry of Education of China).
+- *2024.9* National Scholarship, Master.
 
 # 📖 Educations
 - *2025.09 - (now)*, Ph.D. candidate, Huazhong University of Science and Technology (HUST), Wuhan.
