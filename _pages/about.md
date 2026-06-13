@@ -63,6 +63,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.06*: &nbsp;🎉🎉 One paper was accepted by MICCAI. Congratulations to Shaoqing Zhai!
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by ICME. Congratulations to Hao Wang!
 - *2026.02*: &nbsp;🎉🎉 One paper ``SAMIX`` was accepted by CVPR 2026. Congratulations to all co-authors!
 - *2025.11*: &nbsp;🎉🎉 One paper ``PaGKD`` was accepted by AAAI 2026. Congratulations to the co-author Qimei Wang!
@@ -161,6 +162,20 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 [**Code**](https://github.com/Scatteredrain/SALI)
 [**Paper**](https://arxiv.org/abs/2406.13532)
 - SALI, a hybrid of Short-term Alignment Module (SAM) and Long-term Interaction Module (LIM), achieves the SOTA performance on the SUN-SEG dataset (currently the largest video polyp segmentation dataset).
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025 <span style="color:red">(Early Accept)</span></div><img src='images/DADA.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mask to Concept: Auto-promptable SAM3 via Concept Embedding Searching for Training-free Few-shot Annotation]()
+
+Quan Zhou<span style="color:#0D6EFD">&#42;</span>, Shaoqing Zhai<span style="color:#0D6EFD">&#42;</span>, **Qiang Hu**<span style="color:#FFA500">&#8224;</span>, Jia Chen, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
+
+[**Code**](https://github.com/Huster-Hq/DADA)
+[**Paper**](https://arxiv.org/abs/2506.18134)
+- We propose Mask to Concept (M2C), a training-free framework that searches precise `textual concepts' from just a few labeled images, instantly transforming SAM3 into a dataset-specific segmenter. Integrated with a hybrid uncertainty metric, M2C forms a human-in-the-loop system that automates scalable data annotation with minimal expert effort.
 </div>
 </div>
 
