@@ -166,7 +166,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025 </div><img src='images/M2C.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026 </div><img src='images/M2C.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mask to Concept: Auto-promptable SAM3 via Concept Embedding Searching for Training-free Few-shot Annotation]()
@@ -175,7 +175,7 @@ Quan Zhou<span style="color:#0D6EFD">&#42;</span>, Shaoqing Zhai<span style="col
 
 [**Code**](https://github.com/Huster-Hq/DADA)
 [**Paper**](https://arxiv.org/abs/2506.18134)
-- We propose Mask to Concept (M2C), a training-free framework that searches precise `textual concepts' from just a few labeled images, instantly transforming SAM3 into a dataset-specific segmenter. Integrated with a hybrid uncertainty metric, M2C forms a human-in-the-loop system that automates scalable data annotation with minimal expert effort.
+- We propose Mask to Concept (M2C), an efficient framework that searches precise `textual concepts' from just a few labeled images, instantly transforming SAM3 into a dataset-specific segmenter. Integrated with a hybrid uncertainty metric, M2C forms a human-in-the-loop system that automates scalable data annotation with minimal expert effort.
 </div>
 </div>
 
