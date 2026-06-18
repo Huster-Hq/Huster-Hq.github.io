@@ -63,9 +63,9 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
-- *2026.06*: &nbsp;🎉🎉 One paper ``DPO-Clin`` was accepted by ECCV. My first work related to VLM Post-Training.
-- *2026.06*: &nbsp;🎉🎉 One paper ``M2C`` was accepted by MICCAI. Congratulations to Shaoqing Zhai!
-- *2026.03*: &nbsp;🎉🎉 One paper was accepted by ICME. Congratulations to Hao Wang!
+- *2026.06*: &nbsp;🎉🎉 One paper ``DPO-Clin`` was accepted by ECCV 2026. My first work related to VLM Post-Training.
+- *2026.06*: &nbsp;🎉🎉 One paper ``M2C`` was accepted by MICCAI 2026. Congratulations to Shaoqing Zhai!
+- *2026.03*: &nbsp;🎉🎉 One paper was accepted by ICME 2026. Congratulations to Hao Wang!
 - *2026.02*: &nbsp;🎉🎉 One paper ``SAMIX`` was accepted by CVPR 2026. Congratulations to all co-authors!
 - *2025.11*: &nbsp;🎉🎉 One paper ``PaGKD`` was accepted by AAAI 2026. Congratulations to the co-author Qimei Wang!
 - *2025.05*: &nbsp;🎉🎉 Two papers ``ADD`` and ``DADA`` were ``early accepted`` by MICCAI 2025 (Top 9%). Congratulations to Qimei Wang and Gan Luo!
