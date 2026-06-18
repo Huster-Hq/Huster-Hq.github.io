@@ -85,12 +85,26 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 </div><img src='images/SAMIX.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SAMIX: Reinforcing SAM2 with Semantic Adapter and Reference Selecting Policy for Mix-Supervised Segmentation]()
+[SAMIX: Reinforcing SAM2 with Semantic Adapter and Reference Selecting Policy for Mix-Supervised Segmentation](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_SAMIX_Reinforcing_SAM2_with_Semantic_Adapter_and_Reference_Selecting_Policy_CVPR_2026_paper.html)
 
 **Qiang Hu**, Jiajie Wei, Zhenyu Yi, Zhifen Yan, Yingjie Guo, Hongkuan Shi, Ge-Peng Ji, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
 
 [**Code**](https://github.com/Huster-Hq/SAMIX)
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_SAMIX_Reinforcing_SAM2_with_Semantic_Adapter_and_Reference_Selecting_Policy_CVPR_2026_paper.html)
+- SAMIX is a RL-empowered in-context segmenter comprising two core components: SA-SAM2 and SPNet. SA-SAM2 leverages a lightweight semantic adapter to transform the vanilla SAM2 into an in-context segmenter, enabling cross-image semantic tracking capabilities. Meanwhile, SPNet is trained via GRPO with customized verifiable rewards to retrieve valuable visual contexts from a data pool for the query image, effectively empowering SA-SAM2.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 </div><img src='images/DPO-Clin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation]()
+
+**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Yuxuan Luo<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Hao Wang, Qimei Wang, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+
+[**Code**]()
+[**Paper**]()
 - SAMIX is a RL-empowered in-context segmenter comprising two core components: SA-SAM2 and SPNet. SA-SAM2 leverages a lightweight semantic adapter to transform the vanilla SAM2 into an in-context segmenter, enabling cross-image semantic tracking capabilities. Meanwhile, SPNet is trained via GRPO with customized verifiable rewards to retrieve valuable visual contexts from a data pool for the query image, effectively empowering SA-SAM2.
 </div>
 </div>
@@ -197,7 +211,7 @@ Quan Zhou<span style="color:#0D6EFD">&#42;</span>, Gan Luo<span style="color:#0D
 
 - ``JBHI 2024`` [Fine-Grained Temporal Site Monitoring in EGD Streams Via Visual Time-Aware Embedding and Vision-Text Asymmetric Coworking](https://ieeexplore.ieee.org/abstract/document/10738274), Fang Peng<span style="color:#0D6EFD">&#42;</span>, Hongkuan Shi<span style="color:#0D6EFD">&#42;</span>, Shiquan He<span style="color:#0D6EFD">&#42;</span>, **Qiang Hu**, Ting Li, Fan Huang, Xinxia Feng, Mei Liu, Jiazhi Liao, Qiang Li<span style="color:#FFA500">&#8224;</span>, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
-- ``ICME 2026`` [Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting](https://arxiv.org/abs/2510.18739), Hao Wang<span style="color:#0D6EFD">&#42;</span>, Ying Zhou<span style="color:#0D6EFD">&#42;</span>, Haoyu Zhao, Rui Wang, **Qiang Hu**, Xin Zhang, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
+- ``ICME 2026 <span style="color:red">(Oral)</span>`` [Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting](https://arxiv.org/abs/2510.18739), Hao Wang<span style="color:#0D6EFD">&#42;</span>, Ying Zhou<span style="color:#0D6EFD">&#42;</span>, Haoyu Zhao, Rui Wang, **Qiang Hu**, Xin Zhang, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
 # 🎖 Honors and Awards
 - *2024.9* National Scholarship, Master.
