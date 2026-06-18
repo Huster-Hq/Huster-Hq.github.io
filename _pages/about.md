@@ -105,7 +105,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [**Code**]()
 [**Paper**]()
-- SAMIX is a RL-empowered in-context segmenter comprising two core components: SA-SAM2 and SPNet. SA-SAM2 leverages a lightweight semantic adapter to transform the vanilla SAM2 into an in-context segmenter, enabling cross-image semantic tracking capabilities. Meanwhile, SPNet is trained via GRPO with customized verifiable rewards to retrieve valuable visual contexts from a data pool for the query image, effectively empowering SA-SAM2.
+- DPO-Clin is a VLM post-training framework that adapts Direct Preference Optimization (DPO) to clinically reliable medical report generation. By constructing entity-level, linguistically aligned preference pairs and introducing retrieval-augmented multimodal DPO for visual grounding, DPO-Clin improves the clinical factuality and image-text alignment of medical VLMs across radiology and endoscopy scenarios.
 </div>
 </div>
 
