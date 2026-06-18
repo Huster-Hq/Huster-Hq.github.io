@@ -105,7 +105,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [**Code**]()
 [**Paper**]()
-- DPO-Clin is a VLM post-training framework that adapts Direct Preference Optimization (DPO) to clinically reliable medical report generation. By constructing entity-level, linguistically aligned preference pairs and introducing retrieval-augmented multimodal DPO for visual grounding, DPO-Clin improves the clinical factuality and image-text alignment of medical VLMs across radiology and endoscopy scenarios.
+- DPO-Clin is a VLM post-training framework that adapts DPO to clinically reliable MRG. By constructing entity-level, linguistically aligned preference pairs and introducing retrieval-augmented multimodal DPO for visual grounding, DPO-Clin improves the clinical quality of reports across radiology and endoscopy scenarios.
 </div>
 </div>
 
