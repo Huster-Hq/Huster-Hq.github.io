@@ -101,7 +101,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation]()
 
-**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Yuxuan Luo<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Hao Wang, Qimei Wang, Qiang Li, and Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Yuxuan Luo<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Hao Wang, Qimei Wang, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
 
 [**Code**]()
 [**Paper**]()
