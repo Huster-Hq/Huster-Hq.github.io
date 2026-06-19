@@ -87,7 +87,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [SAMIX: Reinforcing SAM2 with Semantic Adapter and Reference Selecting Policy for Mix-Supervised Segmentation](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_SAMIX_Reinforcing_SAM2_with_Semantic_Adapter_and_Reference_Selecting_Policy_CVPR_2026_paper.html)
 
-**Qiang Hu**, Jiajie Wei, Zhenyu Yi, Zhifen Yan, Yingjie Guo, Hongkuan Shi, Ge-Peng Ji, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+**Qiang Hu**, Jiajie Wei, Zhenyu Yi, Zhifen Yan, Yingjie Guo, Hongkuan Shi, Ge-Peng Ji, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
 [**Code**](https://github.com/Huster-Hq/SAMIX)
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_SAMIX_Reinforcing_SAM2_with_Semantic_Adapter_and_Reference_Selecting_Policy_CVPR_2026_paper.html)
@@ -101,7 +101,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation]()
 
-**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Yuxuan Luo<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Hao Wang, Qimei Wang, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Yuxuan Luo<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Hao Wang, Qimei Wang, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
 [**Code**]()
 [**Paper**]()
@@ -115,7 +115,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 
 [Pairing-free Group-level Knowledge Distillation for Robust Gastrointestinal Lesion Classification in White-Light Endoscopy](https://arxiv.org/abs/2601.09209)
 
-**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Qimei Wang<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>;
+**Qiang Hu**<span style="color:#0D6EFD">&#42;</span>, Qimei Wang<span style="color:#0D6EFD">&#42;</span>, Yingjie Guo, Qiang Li, Zhiwei Wang<span style="color:#FFA500">&#8224;</span>
 
 [**Code**](https://github.com/Huster-Hq/PaGKD)
 [**Paper**](https://arxiv.org/abs/2601.09209)
