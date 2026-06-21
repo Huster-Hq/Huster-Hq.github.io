@@ -181,7 +181,7 @@ My research interests foucs on algorithms for Health Examination in Endoscopy im
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026 </div><img src='images/M2C.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026 </div><img src='images/M2C.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mask to Concept: Auto-promptable SAM3 via Concept Embedding Searching for Training-free Few-shot Annotation]()
